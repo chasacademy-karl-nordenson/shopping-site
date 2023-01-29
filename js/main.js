@@ -61,9 +61,3 @@ const decrement = (id) => {
 
 }
 
-/* console.log(shopData); */
-
-
-
-
-{/* <div id=quantity class="quantity">0</div> */}
